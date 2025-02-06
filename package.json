@@ -1,0 +1,25 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "Learning React using npm init",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yadavvidya/LearningReact.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Vidya Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yadavvidya/LearningReact/issues"
+  },
+  "homepage": "https://github.com/yadavvidya/LearningReact#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
